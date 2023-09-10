@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/josegoval/typescript-npm-templage-test/compare/v1.4.1...v2.0.0) (2023-09-10)
+
+
+### Features
+
+* break ([b5b3d54](https://github.com/josegoval/typescript-npm-templage-test/commit/b5b3d54c222b3c9fb2e21b2cf9b2d2529d039c0a))
+
+
+### BREAKING CHANGES
+
+* New version
+
 ## [1.4.1](https://github.com/josegoval/typescript-npm-templage-test/compare/v1.4.0...v1.4.1) (2023-09-10)
 
 
