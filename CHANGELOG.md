@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/josegoval/typescript-npm-templage-test/compare/v1.4.0...v1.4.1) (2023-09-10)
+
+
+### Bug Fixes
+
+* bump ([4ed05c7](https://github.com/josegoval/typescript-npm-templage-test/commit/4ed05c74ef5bacb1c610f802616b2bdc53aacb0b))
+
 # [1.4.0](https://github.com/josegoval/typescript-npm-templage-test/compare/v1.3.1...v1.4.0) (2023-09-10)
 
 
