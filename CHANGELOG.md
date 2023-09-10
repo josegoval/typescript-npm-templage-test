@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/josegoval/typescript-npm-templage-test/compare/v1.3.1...v1.4.0) (2023-09-10)
+
+
+### Features
+
+* relevant ([50dc87f](https://github.com/josegoval/typescript-npm-templage-test/commit/50dc87f07d8bbf56c24c3403f5e7c3ac13bdcae7))
+
 ## [1.3.1](https://github.com/josegoval/typescript-npm-templage-test/compare/v1.3.0...v1.3.1) (2023-09-10)
 
 
