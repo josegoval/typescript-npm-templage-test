@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/josegoval/typescript-npm-templage-test/compare/v1.0.0...v1.1.0) (2023-09-10)
+
+
+### Features
+
+* bump ([40167d9](https://github.com/josegoval/typescript-npm-templage-test/commit/40167d9bcb3a2fff26c46698b27edd634b8b10b4))
+
 # 1.0.0 (2023-09-10)
 
 
